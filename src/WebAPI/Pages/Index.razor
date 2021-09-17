@@ -1,0 +1,10 @@
+@page "/"
+@using MediatR
+@using CleanArchitectureBase.Application.RequestHandling.System
+@inject IMediator Mediator
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+@Mediator.Send(new GetVersion.Request()).Result.Runtime
