@@ -1,4 +1,4 @@
-"use strict";
+﻿"use strict";
 var version = "v2/";
 var connection = new signalR.HubConnectionBuilder()
     .withUrl("/eventHub")

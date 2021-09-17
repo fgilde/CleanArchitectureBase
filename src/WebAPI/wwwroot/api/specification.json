@@ -5,13 +5,13 @@
     "title": "CleanArchitectureBase Web API",
     "description": "API to use CleanArchitectureBase",
     "contact": {
-      "name": "FlG",
-      "url": "https://twitter.com/spboyer",
-      "email": "info@xyz.de"
+      "name": "Florian Gilde",
+      "url": "http://www.gilde.org",
+      "email": "info@gilde.org"
     },
     "license": {
-      "name": "Use under LICX",
-      "url": "https://twitter.com/spboyer"
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
     },
     "version": "2.0"
   },
